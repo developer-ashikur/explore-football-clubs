@@ -1,0 +1,9 @@
+.header{
+    background: url('../../images/banner2.webp')  center center no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+}
