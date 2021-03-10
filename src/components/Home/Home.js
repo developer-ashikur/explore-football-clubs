@@ -12,7 +12,7 @@ const Home = () => {
         .then(data => setTeams(data.teams))
     },[]);
     return (
-        <div>
+        <div className='home'>
             <div className="header">
                 <h1>Explore Football Clubs</h1>
             </div>

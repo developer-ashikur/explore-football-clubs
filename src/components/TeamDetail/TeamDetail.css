@@ -1,3 +1,18 @@
 .header-img{
     width: 180px;
 }
+.social-menu ul{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.social-menu ul li a{
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 30px;
+}
+.team-detail{
+    background-color: #eee;
+}
